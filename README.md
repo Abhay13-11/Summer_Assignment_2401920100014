@@ -1,36 +1,56 @@
 # 4-Week DSA & OOPS Summer Assignment
 
-## Student Information
+## Student Details
 - Name: Abhay Singh
 - Roll No: YOUR_ROLL_NUMBER
 
-## Assignment Details
+## Assignment Overview
 This repository contains solutions for the 4-Week DSA & OOPS Summer Assignment.
-
-The assignment includes:
-- Daily LeetCode DSA problems
-- Weekly OOPS programming assignments
-- Organized week-wise and day-wise submissions
 
 ## Repository Structure
 
-```text
-Week_1/
-├── Day_1
-├── Day_2
-├── Day_3
-├── Day_4
-├── Day_5
-└── OOPS
+Week_1
+- Day_1
+- Day_2
+- Day_3
+- Day_4
+- Day_5
+- OOPS
 
-Week_2/
-Week_3/
-Week_4/
-```
+Week_2
+- Day_1
+- Day_2
+- Day_3
+- Day_4
+- Day_5
+- OOPS
 
-## Language Used
-- C++
+Week_3
+- Day_1
+- Day_2
+- Day_3
+- Day_4
+- Day_5
+- OOPS
 
-## Platform
+Week_4
+- Day_1
+- Day_2
+- Day_3
+- Day_4
+- Day_5
+- OOPS
+
+## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Object Oriented Programming (OOPS)
+
+## Platform Used
 - LeetCode
 - GitHub
+- C++
